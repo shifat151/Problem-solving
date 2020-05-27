@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478456607 source:c:\users\user\desktop\program\cc8\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

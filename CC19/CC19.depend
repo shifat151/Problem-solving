@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478703355 source:c:\users\user\desktop\program\cc19\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

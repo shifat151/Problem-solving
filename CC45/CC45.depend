@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480345497 source:c:\users\user\desktop\program\cc45\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480339680 source:c:\users\user\desktop\program\cc48\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
